@@ -24,5 +24,14 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
 
+#Hide node-webkit
+nw.exe
+nwsnapshot.exe
+nw.pak
+libEGL.dll
+libGLESv2.dll
+icudtl.dat
+ffmpegsumo.dll
+
 # Users Environment Variables
 .lock-wscript
